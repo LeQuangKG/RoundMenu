@@ -1,0 +1,28 @@
+.p1
+{
+    position:absolute;top:320px;left:12px;width:302px;height:220px;z-index:1;
+}
+.p2
+{
+    position:absolute;top:295px;left:45px;width:357px;height:262px;z-index:2;
+}
+.p3
+{
+    position:absolute;top:256px;left:107px;width:467px;height:340px;z-index:3;
+}
+.p4
+{
+    position:absolute;top:197px;left:192px;width:641px;height:466px;z-index:4;
+}
+.p5
+{
+    position:absolute;top:256px;left:449px;width:467px;height:340px;z-index:3;
+}
+.p6
+{
+    position:absolute;top:296px;left:621px;width:357px;height:262px;z-index:2;
+}
+.p7
+{
+    position:absolute;top:321px;left:706px;width:302px;height:217px;z-index:1;
+}
